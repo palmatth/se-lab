@@ -28,6 +28,7 @@ public class TorpedoStore {
     }
   }
 
+  //Megtortent a valtoztatas coriki1, nagyon koszonom a kozremukodesed.
   public Random getRandom(){
     return new Random();
   }
